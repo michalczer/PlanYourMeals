@@ -1,0 +1,12 @@
+D:\Projekty\PlanYourMeals\PlanYourMealsApi\Data\bin\Debug\Data.dll
+D:\Projekty\PlanYourMeals\PlanYourMealsApi\Data\bin\Debug\Data.pdb
+D:\Projekty\PlanYourMeals\PlanYourMealsApi\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+D:\Projekty\PlanYourMeals\PlanYourMealsApi\Data\obj\Debug\Data.dll
+D:\Projekty\PlanYourMeals\PlanYourMealsApi\Data\obj\Debug\Data.pdb
+D:\Projekty\PlanYourMeals\PlanYourMealsApi\Data\bin\Debug\Data.dll.config
+D:\Projekty\PlanYourMeals\PlanYourMealsApi\Data\bin\Debug\EntityFramework.dll
+D:\Projekty\PlanYourMeals\PlanYourMealsApi\Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projekty\PlanYourMeals\PlanYourMealsApi\Data\bin\Debug\EntityFramework.xml
+D:\Projekty\PlanYourMeals\PlanYourMealsApi\Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projekty\PlanYourMeals\PlanYourMealsApi\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+D:\Projekty\PlanYourMeals\PlanYourMealsApi\Data\obj\Debug\Data.csproj.CopyComplete
